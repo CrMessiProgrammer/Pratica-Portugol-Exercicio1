@@ -1,1 +1,1 @@
-Exercícios Final (Generation) - Prática no Portugol
+Exercícios Finais (Generation) - Prática no Portugol
